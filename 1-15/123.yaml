@@ -1,0 +1,868 @@
+{
+  "code": 10000,
+  "data": {
+    "shop_order_detail": {
+      "accept_order_status": 1,
+      "address_tag_ui": [],
+      "app_id": 1128,
+      "appointment_ship_time": 0,
+      "author_cost_amount": 0,
+      "b_type": 2,
+      "b_type_desc": "抖音",
+      "biz": 53,
+      "biz_desc": "通信卡",
+      "buyer_words": "",
+      "cancel_reason": "商家审核超时，订单已被取消",
+      "channel_payment_no": "4346800948202302227428288956",
+      "create_time": 1677020252,
+      "d_car_shop_biz_data": {
+        "poi_addr": null,
+        "poi_adname": null,
+        "poi_city_name": null,
+        "poi_id": null,
+        "poi_name": null,
+        "poi_pname": null,
+        "poi_tel": null
+      },
+      "doudian_open_id": "1@#oDgd3BPk4vcw9pWSHRc5oHyyMxYoyXQoIzrN3g1nyqJ1jFV6Kufgxf2qc2HABbFUj5Zq0Rc=",
+      "earliest_receipt_time": 0,
+      "early_arrival": false,
+      "encrypt_post_receiver": "收件人密文",
+      "encrypt_post_tel": "电话密文",
+      "exp_ship_time": 1677193071,
+      "finish_time": 0,
+      "latest_receipt_time": 0,
+      "logistics_info": [],
+      "main_status": 21,
+      "main_status_desc": "发货前退款完成",
+      "mask_post_addr": {
+        "city": {
+          "id": "370100",
+          "name": "济南市"
+        },
+        "detail": "天辰路(****)*****号楼*单元",
+        "province": {
+          "id": "37",
+          "name": "山东省"
+        },
+        "street": {
+          "id": "370102014",
+          "name": "舜华路街道"
+        },
+        "town": {
+          "id": "370102",
+          "name": "历下区"
+        }
+      },
+      "mask_post_receiver": "郝**",
+      "mask_post_tel": "1********41",
+      "modify_amount": 0,
+      "modify_post_amount": 0,
+      "only_platform_cost_amount": 0,
+      "open_id": "",
+      "order_amount": 3,
+      "order_expire_time": 1800,
+      "order_id": "17857076890",
+      "order_level": 2,
+      "order_phase_list": [],
+      "order_status": 105,
+      "order_status_desc": "已关闭",
+      "order_type": 0,
+      "order_type_desc": "普通订单",
+      "packing_amount": 0,
+      "pay_amount": 3,
+      "pay_time": 1677020271,
+      "pay_type": 1,
+      "platform_cost_amount": 0,
+      "post_addr": {
+        "city": {
+          "id": "370100",
+          "name": "济南市"
+        },
+        "detail": "",
+        "encrypt_detail": "地址密文",
+        "province": {
+          "id": "37",
+          "name": "山东省"
+        },
+        "street": {
+          "id": "370102014",
+          "name": "舜华路街道"
+        },
+        "town": {
+          "id": "370102",
+          "name": "历下区"
+        }
+      },
+      "post_amount": 0,
+      "post_insurance_amount": 0,
+      "post_origin_amount": 0,
+      "post_promotion_amount": 0,
+      "post_receiver": "",
+      "post_tel": "",
+      "promise_info": null,
+      "promotion_amount": 0,
+      "promotion_detail": {
+        "kol_discount_detail": {
+          "coupon_amount": 0,
+          "coupon_info": [],
+          "full_discount_amount": 0,
+          "full_discount_info": [],
+          "redpack_amount": 0,
+          "redpack_info": [],
+          "total_amount": 0
+        },
+        "platform_discount_detail": {
+          "coupon_amount": 0,
+          "coupon_info": [],
+          "full_discount_amount": 0,
+          "full_discount_info": [],
+          "gold_coin_amount": 0,
+          "redpack_amount": 0,
+          "redpack_info": [],
+          "total_amount": 0
+        },
+        "shop_discount_detail": {
+          "coupon_amount": 0,
+          "coupon_info": [],
+          "full_discount_amount": 0,
+          "full_discount_info": [],
+          "total_amount": 0
+        }
+      },
+      "promotion_pay_amount": 0,
+      "promotion_platform_amount": 0,
+      "promotion_redpack_amount": 0,
+      "promotion_redpack_platform_amount": 0,
+      "promotion_redpack_talent_amount": 0,
+      "promotion_shop_amount": 0,
+      "promotion_talent_amount": 0,
+      "seller_remark_stars": 4,
+      "seller_words": "[成功，插黄旗]",
+      "serial_number_list": [],
+      "ship_time": 0,
+      "shop_cost_amount": 0,
+      "shop_id": 300236,
+      "shop_name": "全线通号卡严选",
+      "shop_order_tag_ui": [],
+      "sku_order_list": [
+        {
+          "account_list": {},
+          "ad_env_type": "",
+          "after_sale_info": {
+            "after_sale_status": 53,
+            "after_sale_type": 4,
+            "refund_status": 3
+          },
+          "app_id": 1128,
+          "appointment_ship_time": 0,
+          "author_cost_amount": 0,
+          "author_id": 3554043509869095,
+          "author_name": "5G星卡流量通",
+          "b_type": 2,
+          "b_type_desc": "抖音",
+          "biz": 53,
+          "biz_desc": "通信卡",
+          "bundle_sku_info": [],
+          "c_biz": 8,
+          "c_biz_desc": "小店自卖",
+          "campaign_info": [],
+          "cancel_reason": "商家审核超时，订单已被取消",
+          "card_voucher": {
+            "valid_days": 0,
+            "valid_end": 0,
+            "valid_start": 0
+          },
+          "channel_payment_no": "4346800948202302227428288956",
+          "cid": 0,
+          "code": "转单限单主订单对应子订单01",
+          "confirm_receipt_time": 0,
+          "content_id": "",
+          "create_time": 1677020252,
+          "encrypt_post_receiver": "收件人密文",
+          "encrypt_post_tel": "电话密文",
+          "exp_ship_time": 1677193071,
+          "finish_time": 0,
+          "first_cid": 20096,
+          "fourth_cid": 0,
+          "given_product_type": "",
+          "goods_type": 0,
+          "has_tax": false,
+          "inventory_list": [
+            {
+              "count": 1,
+              "inventory_type": 1,
+              "inventory_type_desc": "普通库存",
+              "out_warehouse_id": "",
+              "warehouse_id": "",
+              "warehouse_type": 0
+            }
+          ],
+          "inventory_type": "",
+          "inventory_type_desc": "",
+          "is_activity": false,
+          "is_comment": 0,
+          "item_num": 1,
+          "logistics_receipt_time": 0,
+          "main_status": 21,
+          "main_status_desc": "发货前退款完成",
+          "mask_post_addr": {
+            "city": {
+              "id": "370100",
+              "name": "济南市"
+            },
+            "detail": "天辰路(****)*****号楼*单元",
+            "province": {
+              "id": "37",
+              "name": "山东省"
+            },
+            "street": {
+              "id": "370102014",
+              "name": "舜华路街道"
+            },
+            "town": {
+              "id": "370102",
+              "name": "历下区"
+            }
+          },
+          "mask_post_receiver": "郝**",
+          "mask_post_tel": "1********41",
+          "master_sku_order_id": "",
+          "modify_amount": 0,
+          "modify_post_amount": 0,
+          "need_serial_number": false,
+          "only_platform_cost_amount": 0,
+          "order_amount": 1,
+          "order_expire_time": 1800,
+          "order_id": "17857076890",
+          "order_level": 3,
+          "order_status": 105,
+          "order_status_desc": "已关闭",
+          "order_type": 0,
+          "order_type_desc": "普通订单",
+          "origin_amount": 1,
+          "origin_id": "",
+          "out_product_id": "0",
+          "out_sku_id": "",
+          "out_warehouse_ids": [],
+          "page_id": 0,
+          "parent_order_id": "17857076890",
+          "pay_amount": 1,
+          "pay_time": 1677020271,
+          "pay_type": 1,
+          "platform_cost_amount": 0,
+          "post_addr": {
+            "city": {
+              "id": "370100",
+              "name": "济南市"
+            },
+            "detail": "",
+            "encrypt_detail": "地址密文",
+            "province": {
+              "id": "37",
+              "name": "山东省"
+            },
+            "street": {
+              "id": "370102014",
+              "name": "舜华路街道"
+            },
+            "town": {
+              "id": "370102",
+              "name": "历下区"
+            }
+          },
+          "post_amount": 0,
+          "post_insurance_amount": 0,
+          "post_receiver": "",
+          "post_tel": "",
+          "pre_sale_type": 0,
+          "product_id": 3593321087922006500,
+          "product_id_str": "3593321087922006595",
+          "product_name": "mock订单01",
+          "product_pic": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/kGTQWIq_m_d3f9a0bdcbc6d0a5a9db66edc84de011_sx_341525_www800-800",
+          "promise_info": "{\"identifier\":\"S#2023-02-24\"}",
+          "promotion_amount": 0,
+          "promotion_detail": {
+            "kol_discount_detail": {
+              "coupon_amount": 0,
+              "coupon_info": [],
+              "full_discount_amount": 0,
+              "full_discount_info": [],
+              "redpack_amount": 0,
+              "redpack_info": [],
+              "total_amount": 0
+            },
+            "platform_discount_detail": {
+              "coupon_amount": 0,
+              "coupon_info": [],
+              "full_discount_amount": 0,
+              "full_discount_info": [],
+              "gold_coin_amount": 0,
+              "redpack_amount": 0,
+              "redpack_info": [],
+              "total_amount": 0
+            },
+            "shop_discount_detail": {
+              "coupon_amount": 0,
+              "coupon_info": [],
+              "full_discount_amount": 0,
+              "full_discount_info": [],
+              "total_amount": 0
+            }
+          },
+          "promotion_pay_amount": 0,
+          "promotion_platform_amount": 0,
+          "promotion_redpack_amount": 0,
+          "promotion_redpack_platform_amount": 0,
+          "promotion_redpack_talent_amount": 0,
+          "promotion_shop_amount": 0,
+          "promotion_talent_amount": 0,
+          "receive_type": 0,
+          "reduce_stock_type": 1,
+          "reduce_stock_type_desc": "下单减库存",
+          "relation_order": {
+            "relation_order_id": null,
+            "write_off_no": null
+          },
+          "room_id": 0,
+          "room_id_str": "0",
+          "second_cid": 34627,
+          "send_pay": 0,
+          "send_pay_desc": "-",
+          "ship_time": 0,
+          "shop_cost_amount": 0,
+          "sku_customization_info": [],
+          "sku_id": 1754551312123920,
+          "sku_order_tag_ui": [
+            {
+              "extra": "",
+              "help_doc": "https://school.jinritemai.com/doudian/web/article/101835?from=shop_article",
+              "hover_text": "支持7天无理由退货（使用后不支持）",
+              "key": "unsupport_7days_refund_after_use",
+              "sort": 0,
+              "tag_type": "",
+              "text": "7天"
+            },
+            {
+              "extra": "",
+              "help_doc": "",
+              "hover_text": "达人通过「我的店铺」、或通过链接添加人店一体店铺商品（无官方店铺情况下，添加渠道号店铺商品也算）到橱窗、视频、直播，产生的订单为自卖订单",
+              "key": "c_biz_self_sell",
+              "sort": 0,
+              "tag_type": "grey",
+              "text": "小店自卖"
+            }
+          ],
+          "source_platform": "",
+          "spec": [
+            {
+              "name": "默认",
+              "value": "默认"
+            }
+          ],
+          "sub_b_type": 3,
+          "sub_b_type_desc": "H5",
+          "sum_amount": 1,
+          "supplier_id": "",
+          "tax_amount": 0,
+          "theme_type": "0",
+          "theme_type_desc": "-",
+          "third_cid": 34836,
+          "trade_type": 0,
+          "trade_type_desc": "普通",
+          "update_time": 1677193103,
+          "video_id": "",
+          "warehouse_ids": [],
+          "writeoff_info": []
+        },
+        {
+          "account_list": {},
+          "ad_env_type": "",
+          "after_sale_info": {
+            "after_sale_status": 53,
+            "after_sale_type": 4,
+            "refund_status": 3
+          },
+          "app_id": 1128,
+          "appointment_ship_time": 0,
+          "author_cost_amount": 0,
+          "author_id": 3554043509869095,
+          "author_name": "5G星卡流量通",
+          "b_type": 2,
+          "b_type_desc": "抖音",
+          "biz": 53,
+          "biz_desc": "通信卡",
+          "bundle_sku_info": [],
+          "c_biz": 8,
+          "c_biz_desc": "小店自卖",
+          "campaign_info": [],
+          "cancel_reason": "商家审核超时，订单已被取消",
+          "card_voucher": {
+            "valid_days": 0,
+            "valid_end": 0,
+            "valid_start": 0
+          },
+          "channel_payment_no": "4346800948202302227428288956",
+          "cid": 0,
+          "code": "转单限单次订单02",
+          "confirm_receipt_time": 0,
+          "content_id": "",
+          "create_time": 1677020252,
+          "encrypt_post_receiver": "收件人密文",
+          "encrypt_post_tel": "电话密文",
+          "exp_ship_time": 1677193071,
+          "finish_time": 0,
+          "first_cid": 20096,
+          "fourth_cid": 0,
+          "given_product_type": "",
+          "goods_type": 0,
+          "has_tax": false,
+          "inventory_list": [
+            {
+              "count": 1,
+              "inventory_type": 1,
+              "inventory_type_desc": "普通库存",
+              "out_warehouse_id": "",
+              "warehouse_id": "",
+              "warehouse_type": 0
+            }
+          ],
+          "inventory_type": "",
+          "inventory_type_desc": "",
+          "is_activity": false,
+          "is_comment": 0,
+          "item_num": 1,
+          "logistics_receipt_time": 0,
+          "main_status": 21,
+          "main_status_desc": "发货前退款完成",
+          "mask_post_addr": {
+            "city": {
+              "id": "370100",
+              "name": "济南市"
+            },
+            "detail": "天辰路(****)*****号楼*单元",
+            "province": {
+              "id": "37",
+              "name": "山东省"
+            },
+            "street": {
+              "id": "370102014",
+              "name": "舜华路街道"
+            },
+            "town": {
+              "id": "370102",
+              "name": "历下区"
+            }
+          },
+          "mask_post_receiver": "郝**",
+          "mask_post_tel": "1********41",
+          "master_sku_order_id": "",
+          "modify_amount": 0,
+          "modify_post_amount": 0,
+          "need_serial_number": false,
+          "only_platform_cost_amount": 0,
+          "order_amount": 1,
+          "order_expire_time": 1800,
+          "order_id": "17857076891",
+          "order_level": 3,
+          "order_status": 105,
+          "order_status_desc": "已关闭",
+          "order_type": 0,
+          "order_type_desc": "普通订单",
+          "origin_amount": 1,
+          "origin_id": "",
+          "out_product_id": "0",
+          "out_sku_id": "",
+          "out_warehouse_ids": [],
+          "page_id": 0,
+          "parent_order_id": "17857076890",
+          "pay_amount": 1,
+          "pay_time": 1677020271,
+          "pay_type": 1,
+          "platform_cost_amount": 0,
+          "post_addr": {
+            "city": {
+              "id": "370100",
+              "name": "济南市"
+            },
+            "detail": "",
+            "encrypt_detail": "地址密文",
+            "province": {
+              "id": "37",
+              "name": "山东省"
+            },
+            "street": {
+              "id": "370102014",
+              "name": "舜华路街道"
+            },
+            "town": {
+              "id": "370102",
+              "name": "历下区"
+            }
+          },
+          "post_amount": 0,
+          "post_insurance_amount": 0,
+          "post_receiver": "",
+          "post_tel": "",
+          "pre_sale_type": 0,
+          "product_id": 3591973803976222700,
+          "product_id_str": "3591973803976222642",
+          "product_name": "mock订单02",
+          "product_pic": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/kGTQWIq_m_8c6f24827bdc84b91c54d04ec05aa487_sx_388183_www800-800",
+          "promise_info": "{\"identifier\":\"S#2023-02-24\"}",
+          "promotion_amount": 0,
+          "promotion_detail": {
+            "kol_discount_detail": {
+              "coupon_amount": 0,
+              "coupon_info": [],
+              "full_discount_amount": 0,
+              "full_discount_info": [],
+              "redpack_amount": 0,
+              "redpack_info": [],
+              "total_amount": 0
+            },
+            "platform_discount_detail": {
+              "coupon_amount": 0,
+              "coupon_info": [],
+              "full_discount_amount": 0,
+              "full_discount_info": [],
+              "gold_coin_amount": 0,
+              "redpack_amount": 0,
+              "redpack_info": [],
+              "total_amount": 0
+            },
+            "shop_discount_detail": {
+              "coupon_amount": 0,
+              "coupon_info": [],
+              "full_discount_amount": 0,
+              "full_discount_info": [],
+              "total_amount": 0
+            }
+          },
+          "promotion_pay_amount": 0,
+          "promotion_platform_amount": 0,
+          "promotion_redpack_amount": 0,
+          "promotion_redpack_platform_amount": 0,
+          "promotion_redpack_talent_amount": 0,
+          "promotion_shop_amount": 0,
+          "promotion_talent_amount": 0,
+          "receive_type": 0,
+          "reduce_stock_type": 3,
+          "reduce_stock_type_desc": "支付减库存预占",
+          "relation_order": {
+            "relation_order_id": null,
+            "write_off_no": null
+          },
+          "room_id": 0,
+          "room_id_str": "0",
+          "second_cid": 34627,
+          "send_pay": 0,
+          "send_pay_desc": "-",
+          "ship_time": 0,
+          "shop_cost_amount": 0,
+          "sku_customization_info": [],
+          "sku_id": 1753893458761776,
+          "sku_order_tag_ui": [
+            {
+              "extra": "",
+              "help_doc": "https://school.jinritemai.com/doudian/web/article/101835?from=shop_article",
+              "hover_text": "支持7天无理由退货（使用后不支持）",
+              "key": "unsupport_7days_refund_after_use",
+              "sort": 0,
+              "tag_type": "",
+              "text": "7天"
+            },
+            {
+              "extra": "",
+              "help_doc": "",
+              "hover_text": "达人通过「我的店铺」、或通过链接添加人店一体店铺商品（无官方店铺情况下，添加渠道号店铺商品也算）到橱窗、视频、直播，产生的订单为自卖订单",
+              "key": "c_biz_self_sell",
+              "sort": 0,
+              "tag_type": "grey",
+              "text": "小店自卖"
+            }
+          ],
+          "source_platform": "",
+          "spec": [
+            {
+              "name": "默认",
+              "value": "默认"
+            }
+          ],
+          "sub_b_type": 3,
+          "sub_b_type_desc": "H5",
+          "sum_amount": 1,
+          "supplier_id": "",
+          "tax_amount": 0,
+          "theme_type": "0",
+          "theme_type_desc": "-",
+          "third_cid": 34833,
+          "trade_type": 0,
+          "trade_type_desc": "普通",
+          "update_time": 1677193239,
+          "video_id": "",
+          "warehouse_ids": [],
+          "writeoff_info": []
+        },
+        {
+          "account_list": {},
+          "ad_env_type": "",
+          "after_sale_info": {
+            "after_sale_status": 53,
+            "after_sale_type": 4,
+            "refund_status": 3
+          },
+          "app_id": 1128,
+          "appointment_ship_time": 0,
+          "author_cost_amount": 0,
+          "author_id": 3554043509869095,
+          "author_name": "5G星卡流量通",
+          "b_type": 2,
+          "b_type_desc": "抖音",
+          "biz": 53,
+          "biz_desc": "通信卡",
+          "bundle_sku_info": [],
+          "c_biz": 8,
+          "c_biz_desc": "小店自卖",
+          "campaign_info": [],
+          "cancel_reason": "商家审核超时，订单已被取消",
+          "card_voucher": {
+            "valid_days": 0,
+            "valid_end": 0,
+            "valid_start": 0
+          },
+          "channel_payment_no": "4346800948202302227428288956",
+          "cid": 0,
+          "code": "转单限单次订单03",
+          "confirm_receipt_time": 0,
+          "content_id": "",
+          "create_time": 1677020252,
+          "encrypt_post_receiver": "收件人密文",
+          "encrypt_post_tel": "电话密文",
+          "exp_ship_time": 1677193071,
+          "finish_time": 0,
+          "first_cid": 20096,
+          "fourth_cid": 0,
+          "given_product_type": "",
+          "goods_type": 0,
+          "has_tax": false,
+          "inventory_list": [
+            {
+              "count": 1,
+              "inventory_type": 1,
+              "inventory_type_desc": "普通库存",
+              "out_warehouse_id": "",
+              "warehouse_id": "",
+              "warehouse_type": 0
+            }
+          ],
+          "inventory_type": "",
+          "inventory_type_desc": "",
+          "is_activity": false,
+          "is_comment": 0,
+          "item_num": 1,
+          "logistics_receipt_time": 0,
+          "main_status": 21,
+          "main_status_desc": "发货前退款完成",
+          "mask_post_addr": {
+            "city": {
+              "id": "370100",
+              "name": "济南市"
+            },
+            "detail": "天辰路(****)*****号楼*单元",
+            "province": {
+              "id": "37",
+              "name": "山东省"
+            },
+            "street": {
+              "id": "370102014",
+              "name": "舜华路街道"
+            },
+            "town": {
+              "id": "370102",
+              "name": "历下区"
+            }
+          },
+          "mask_post_receiver": "郝**",
+          "mask_post_tel": "1********41",
+          "master_sku_order_id": "",
+          "modify_amount": 0,
+          "modify_post_amount": 0,
+          "need_serial_number": false,
+          "only_platform_cost_amount": 0,
+          "order_amount": 1,
+          "order_expire_time": 1800,
+          "order_id": "17857076892",
+          "order_level": 3,
+          "order_status": 105,
+          "order_status_desc": "已关闭",
+          "order_type": 0,
+          "order_type_desc": "普通订单",
+          "origin_amount": 1,
+          "origin_id": "",
+          "out_product_id": "0",
+          "out_sku_id": "",
+          "out_warehouse_ids": [],
+          "page_id": 0,
+          "parent_order_id": "17857076890",
+          "pay_amount": 1,
+          "pay_time": 1677020271,
+          "pay_type": 1,
+          "platform_cost_amount": 0,
+          "post_addr": {
+            "city": {
+              "id": "370100",
+              "name": "济南市"
+            },
+            "detail": "",
+            "encrypt_detail": "地址密文",
+            "province": {
+              "id": "37",
+              "name": "山东省"
+            },
+            "street": {
+              "id": "370102014",
+              "name": "舜华路街道"
+            },
+            "town": {
+              "id": "370102",
+              "name": "历下区"
+            }
+          },
+          "post_amount": 0,
+          "post_insurance_amount": 0,
+          "post_receiver": "",
+          "post_tel": "",
+          "pre_sale_type": 0,
+          "product_id": 3599398917734845400,
+          "product_id_str": "3599398917734845529",
+          "product_name": "mock订单03",
+          "product_pic": "https://p6-aio.ecombdimg.com/obj/ecom-shop-material/kGTQWIq_m_5e7864719ea6af649bced0c0ac6bd1e2_sx_166867_www800-800",
+          "promise_info": "{\"identifier\":\"S#2023-02-24\"}",
+          "promotion_amount": 0,
+          "promotion_detail": {
+            "kol_discount_detail": {
+              "coupon_amount": 0,
+              "coupon_info": [],
+              "full_discount_amount": 0,
+              "full_discount_info": [],
+              "redpack_amount": 0,
+              "redpack_info": [],
+              "total_amount": 0
+            },
+            "platform_discount_detail": {
+              "coupon_amount": 0,
+              "coupon_info": [],
+              "full_discount_amount": 0,
+              "full_discount_info": [],
+              "gold_coin_amount": 0,
+              "redpack_amount": 0,
+              "redpack_info": [],
+              "total_amount": 0
+            },
+            "shop_discount_detail": {
+              "coupon_amount": 0,
+              "coupon_info": [],
+              "full_discount_amount": 0,
+              "full_discount_info": [],
+              "total_amount": 0
+            }
+          },
+          "promotion_pay_amount": 0,
+          "promotion_platform_amount": 0,
+          "promotion_redpack_amount": 0,
+          "promotion_redpack_platform_amount": 0,
+          "promotion_redpack_talent_amount": 0,
+          "promotion_shop_amount": 0,
+          "promotion_talent_amount": 0,
+          "receive_type": 0,
+          "reduce_stock_type": 3,
+          "reduce_stock_type_desc": "支付减库存预占",
+          "relation_order": {
+            "relation_order_id": null,
+            "write_off_no": null
+          },
+          "room_id": 0,
+          "room_id_str": "0",
+          "second_cid": 34627,
+          "send_pay": 0,
+          "send_pay_desc": "-",
+          "ship_time": 0,
+          "shop_cost_amount": 0,
+          "sku_customization_info": [],
+          "sku_id": 1757519001429011,
+          "sku_order_tag_ui": [
+            {
+              "extra": "",
+              "help_doc": "https://school.jinritemai.com/doudian/web/article/101835?from=shop_article",
+              "hover_text": "支持7天无理由退货（使用后不支持）",
+              "key": "unsupport_7days_refund_after_use",
+              "sort": 0,
+              "tag_type": "",
+              "text": "7天"
+            },
+            {
+              "extra": "",
+              "help_doc": "",
+              "hover_text": "达人通过「我的店铺」、或通过链接添加人店一体店铺商品（无官方店铺情况下，添加渠道号店铺商品也算）到橱窗、视频、直播，产生的订单为自卖订单",
+              "key": "c_biz_self_sell",
+              "sort": 0,
+              "tag_type": "grey",
+              "text": "小店自卖"
+            }
+          ],
+          "source_platform": "",
+          "spec": [
+            {
+              "name": "默认",
+              "value": "默认"
+            }
+          ],
+          "sub_b_type": 3,
+          "sub_b_type_desc": "H5",
+          "sum_amount": 1,
+          "supplier_id": "",
+          "tax_amount": 0,
+          "theme_type": "0",
+          "theme_type_desc": "-",
+          "third_cid": 34835,
+          "trade_type": 0,
+          "trade_type_desc": "普通",
+          "update_time": 1677193088,
+          "video_id": "",
+          "warehouse_ids": [],
+          "writeoff_info": []
+        }
+      ],
+      "sub_b_type": 3,
+      "sub_b_type_desc": "H5",
+      "supermarket_order_serial_no": "",
+      "target_arrival_time": 0,
+      "tax_amount": 0,
+      "total_promotion_amount": 0,
+      "trade_type": 0,
+      "trade_type_desc": "普通",
+      "update_time": 1677193239,
+      "user_id_info": {
+        "encrypt_id_card_name": "身份证名密文",
+        "encrypt_id_card_no": "身份证号密文",
+        "id_card_name": "",
+        "id_card_no": ""
+      },
+      "user_tag_ui": [
+        {
+          "key": "user_profile_buy_frequency",
+          "text": "高频购买"
+        },
+        {
+          "key": "user_profile_shop_customer_type",
+          "text": "店铺新客"
+        }
+      ]
+    }
+  },
+  "log_id": "202302241116497F2FA533289A614AA415",
+  "msg": "success",
+  "sub_code": "",
+  "sub_msg": ""
+}
