@@ -1,16 +1,44 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+from time import sleep
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+class Clock(object):
+    """定义一个数字时钟"""
+
+    def __init__(self, hour=0, minute=0, second=0):
+        """初始化方法
+
+        :param hour: 时
+        :param minute: 分
+        :param second: 秒
+        """
+        self._hour = hour
+        self._minute = minute
+        self._second = second
+
+    def run(self):
+        """走字"""
+        self._second += 1
+        if self._second == 60:
+            self._minute += 1
+            self._second = 0
+            if self._minute == 60:
+                self._hour += 1
+                self._minute = 0
+                if self._hour == 24:
+                    self._hour = 0
+
+    def show(self):
+        """显示时间"""
+        return '%02d:%02d:%02d' % (self._hour, self._minute, self._second)
 
 
-# Press the green button in the gutter to run the script.
+def main_clock():
+    clock = Clock(16, 18, 25)
+    while True:
+        print(clock.show())
+        sleep(1)
+        clock.run()
+
+
 if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    main_clock()
